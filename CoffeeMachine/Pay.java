@@ -1,3 +1,4 @@
+package CoffeeMachine;
 public class Pay {
     private final double amount;
 

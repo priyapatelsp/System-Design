@@ -1,3 +1,5 @@
+package CoffeeMachine;
+
 public class CoffeeMachineDemo {
 
     public static void run() {

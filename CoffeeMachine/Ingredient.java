@@ -1,3 +1,4 @@
+package CoffeeMachine;
 public class Ingredient {
     private String name = "";
     private double quantity =0;
